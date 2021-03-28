@@ -160,7 +160,7 @@ models:
           - blue
           - green
           - red
-        default: green
+        default: red
       - type: model
         name: header
         label: Header Configuration
