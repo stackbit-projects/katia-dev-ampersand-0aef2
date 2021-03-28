@@ -2,7 +2,8 @@
     "title": "Stackbit Ampersand Theme",
     "path_prefix": "/",
     "layout_style": "grid",
-    "palette": "maroon",
+    "color_scheme": "light",
+    "accent_color": "maroon",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
